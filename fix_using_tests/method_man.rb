@@ -5,8 +5,8 @@ end
 
 start_game ("Pam", "Jim")
 
-def play_game
+def play_game (player1, player2)
   puts "#{player1} is better than #{player2}"
 end
 
-play_game
+play_game ("Pam", "Jim")
