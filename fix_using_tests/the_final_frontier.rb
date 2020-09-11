@@ -15,7 +15,7 @@ end
 
 def engage
   message = hey
-  binding.pry
+  puts message
   date = 6
   puts state_log(date)
   date = generate_star_date
