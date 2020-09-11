@@ -2,10 +2,9 @@
 def start_game(player1, player2)
   
   puts "Hello #{player1} & #{player2}"
-  puts "Hello Rocky & Bullwinkle"
 end
 
-start_game("Jim", "Pam")
+start_game("Rocky", "Pam")
 
 def play_game (player1, player2)
   puts "#{player1} is better than #{player2}"
