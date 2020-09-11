@@ -7,7 +7,6 @@ start_game("Rocky", "Bullwinkle")
 
 def play_game (player1, player2)
   puts "#{player1} is better than #{player2}"
-  puts message.kind_of
 end
 
 play_game("Jay-Z", "Beyonce")
